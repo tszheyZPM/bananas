@@ -3,3 +3,6 @@ def talk():
 
 def shout():
     print("BANANAS!")
+
+def mumble():
+    print("bana..anana..ana")
