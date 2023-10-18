@@ -8,6 +8,10 @@ setup(name='bananas',
       # author_email='flyingcircus@example.com',
       # license='MIT',
       packages=['bananas'],
+      install_requires=[
+          'numpy==1.26.0'
+          # Add other dependencies here
+      ]
       # zip_safe=False
       )
 
